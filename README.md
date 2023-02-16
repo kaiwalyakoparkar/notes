@@ -1,10 +1,8 @@
+# Notes 📝
 <br/>
 <p align="center">
-  <a href="https://github.com/kaiwalyakoparkar/notes">
-    <img src="https://github.com/kaiwalyakoparkar.png" alt="Logo" width="80" height="80">
-  </a>
+<h1 align="center">Kaiwalya's notes 📝</h3>
 
-  <h3 align="center">Kaiwalya's notes 📝</h3>
 
   <p align="center">
     All the notes during my learning journey 🛣️
@@ -19,13 +17,14 @@
 </p>
 
 [![Discord](https://img.shields.io/discord/907150172725862420)](https://community.kaiwalyakoparkar.com) 
+[![Sponsor](https://img.shields.io/github/sponsors/kaiwalyakoparkar?color=light%20green)](https://github.com/sponsors/kaiwalyakoparkar)
 ![Contributors](https://img.shields.io/github/contributors/kaiwalyakoparkar/notes?color=dark-green) ![Forks](https://img.shields.io/github/forks/kaiwalyakoparkar/notes?style=social) 
 ![Stargazers](https://img.shields.io/github/stars/kaiwalyakoparkar/notes?style=social) 
 ![Issues](https://img.shields.io/github/issues/kaiwalyakoparkar/notes) 
-![License](https://img.shields.io/github/license/kaiwalyakoparkar/notes) 
+![License](https://img.shields.io/github/license/kaiwalyakoparkar/notes)
 
 
-## Built With
+## Free to Access 💸
 
 This repo is maitained and hosted on **`https://notes.kaiwalyakoparkar.com/`** with help of GitBook
 
