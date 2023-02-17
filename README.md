@@ -1,8 +1,6 @@
----
-description: All the notes during my learning journey 🛣️
----
-
 # Home
+
+All the notes during my learning journey 🛣️
 
 \
 [View Demo](https://notes.kaiwalyakoparkar.com/) . [Report Bug](https://github.com/kaiwalyakoparkar/notes/issues/new?assignees=\&labels=bug\&template=bug.yml\&title=%5BBug%5D%3A+%3Ctitle%3E) . [Request Notes](https://github.com/kaiwalyakoparkar/notes/issues/new?assignees=\&labels=new+notes+request\&template=notes.yml\&title=%5BResource%5D+%3Ctitle%3E)
