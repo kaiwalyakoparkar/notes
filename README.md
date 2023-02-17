@@ -1,9 +1,6 @@
-# Notes 📝
 <br/>
 <p align="center">
 <h1 align="center">Kaiwalya's notes 📝</h3>
-
-
   <p align="center">
     All the notes during my learning journey 🛣️
     <br/>
