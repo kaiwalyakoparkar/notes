@@ -12,3 +12,4 @@
   * [ArgoCD](cloud-native/argo.md)
 * [Open Source](open-source/README.md)
   * [Issue Template](open-source/issue.md)
+  * [Pull Request Template](open-source/pr.md)
