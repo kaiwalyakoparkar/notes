@@ -1,7 +1,5 @@
 # Cloud Native
 
-# Home
-
 All the notes during my learning journey 🛣️
 
 \
