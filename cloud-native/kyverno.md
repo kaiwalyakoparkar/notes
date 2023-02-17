@@ -2,8 +2,6 @@
 
 ## ➡️ What is Kyverno 🤔 ?
 
-![Kyverno - Kubernetes Native Policy Management](https://pbs.twimg.com/media/FjT1EhzWYAEidmw?format=png&name=4096x4096 align="left")
-
 According to the Kyverno official documentation, it is described as follows
 
 > Kyverno is a policy engine designed for Kubernetes. With Kyverno, policies are managed as Kubernetes resources and no new language is required to write policies. This allows using familiar tools such as `kubectl`, `git`, and `kustomize` to manage policies. Kyverno policies can validate, mutate, and generate Kubernetes resources plus ensure OCI image supply chain security. The Kyverno CLI can be used to test policies and validate resources as part of a CI/CD pipeline.
