@@ -2,8 +2,6 @@
 
 ## History
 
-![](https://media.giphy.com/media/9V71czzFLwBNE0O8EV/giphy.gif)
-
 ### - Bare metal servers
 It is typically a single computer server which is used by only one consumer or tenet. Each server offered for rental is a distinct physical piece of hardware that is a functional server on its own.
 ### - Virtual Machine
