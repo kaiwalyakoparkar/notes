@@ -13,3 +13,4 @@
 * [Open Source](open-source/README.md)
   * [Issue Template](open-source/issue.md)
   * [Pull Request Template](open-source/pr.md)
+  * [Funding Template](open-source/sponsor.md)
