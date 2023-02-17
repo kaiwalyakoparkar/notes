@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Kaiwalya's notes 📝](README.md)
+* [Home](README.md)
