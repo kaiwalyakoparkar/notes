@@ -10,3 +10,5 @@
   * [Kyverno](cloud-native/kyverno.md)
   * [Prometheus](cloud-native/prometheus.md)
   * [ArgoCD](cloud-native/argo.md)
+* [Open Source](open-source/README.md)
+  * [Issue Template](open-source/issue.md)
