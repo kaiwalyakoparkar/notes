@@ -153,10 +153,6 @@ $ kubectl rollout history deploy/<name-of-deployment>
 $ kubectl rollout undo deploy/<name-of-deployment> --to-revision <no-of-revision-from-history-command>
 ```
 
-![](https://media.giphy.com/media/4zJa3fUd2yQA1jHARC/giphy.gif)
-
-Well that's it, that is pretty much that goes around in kubernetes. You will understand and love it more once you build and deploy your application on it. Trust me best way to understand and learn kubernetes is through hands-on practice. Want to build an application and deploy it to your own cluster? Keep an eye on my blog page and there might be something for you in coming future 😉
-
 ## References
 - [Kubernetes Tutorial for Beginners | What is Kubernetes? Architecture Simplified!](https://youtu.be/KVBON1lA9N8)
 - [Kubernetes Course - Full Beginners Tutorial (Containerize Your Apps!)](https://youtu.be/d6WC5n9G_sM)
