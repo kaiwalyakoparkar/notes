@@ -1,31 +1,18 @@
-<br/>
-<p align="center">
-<h1 align="center">Kaiwalya's notes 📝</h3>
-  <p align="center">
-    All the notes during my learning journey 🛣️
-    <br/>
-    <br/>
-    <a href="https://notes.kaiwalyakoparkar.com/">View Demo</a>
-    .
-    <a href="https://github.com/kaiwalyakoparkar/notes/issues">Report Bug</a>
-    .
-    <a href="https://github.com/kaiwalyakoparkar/notes/issues">Request Feature</a>
-  </p>
-</p>
+# Home
 
-[![Discord](https://img.shields.io/discord/907150172725862420)](https://community.kaiwalyakoparkar.com) 
-[![Sponsor](https://img.shields.io/github/sponsors/kaiwalyakoparkar?color=light%20green)](https://github.com/sponsors/kaiwalyakoparkar)
-![Contributors](https://img.shields.io/github/contributors/kaiwalyakoparkar/notes?color=dark-green) ![Forks](https://img.shields.io/github/forks/kaiwalyakoparkar/notes?style=social) 
-![Stargazers](https://img.shields.io/github/stars/kaiwalyakoparkar/notes?style=social) 
-![Issues](https://img.shields.io/github/issues/kaiwalyakoparkar/notes) 
-![License](https://img.shields.io/github/license/kaiwalyakoparkar/notes)
+## Kaiwalya's notes 📝
 
+All the notes during my learning journey 🛣️\
+\
+[View Demo](https://notes.kaiwalyakoparkar.com/) . [Report Bug](https://github.com/kaiwalyakoparkar/notes/issues) . [Request Feature](https://github.com/kaiwalyakoparkar/notes/issues)
 
-## Free to Access 💸
+[![Discord](https://img.shields.io/discord/907150172725862420)](https://community.kaiwalyakoparkar.com) [![Sponsor](https://img.shields.io/github/sponsors/kaiwalyakoparkar?color=light%20green)](https://github.com/sponsors/kaiwalyakoparkar) ![Contributors](https://img.shields.io/github/contributors/kaiwalyakoparkar/notes?color=dark-green) ![Forks](https://img.shields.io/github/forks/kaiwalyakoparkar/notes?style=social) ![Stargazers](https://img.shields.io/github/stars/kaiwalyakoparkar/notes?style=social) ![Issues](https://img.shields.io/github/issues/kaiwalyakoparkar/notes) ![License](https://img.shields.io/github/license/kaiwalyakoparkar/notes)
+
+### Free to Access 💸
 
 This repo is maitained and hosted on **`https://notes.kaiwalyakoparkar.com/`** with help of GitBook
 
-## Getting Started
+### Getting Started
 
 Welcome to Kaiwalya's Learning Journey!
 
@@ -35,16 +22,15 @@ From programming languages to devops, from open source to devrel, this repositor
 
 As the repository grows, it will become a comprehensive collection of resources, examples, and insights that can be used to aid in learning and development. So come along for the journey and start exploring the exciting world of learning with Kaiwalya!
 
-## Usage
+### Usage
 
+_For code example, please refer to the_ [_respective repositories_](https://github.com/kaiwalyakoparkar?tab=repositories)
 
-_For code example, please refer to the [respective repositories](https://github.com/kaiwalyakoparkar?tab=repositories )_
-
-## Roadmap
+### Roadmap
 
 See the [open issues](https://github.com/kaiwalyakoparkar/notes/issues) for a list of proposed features (and known issues).
 
-## Contributing
+### Contributing
 
 We believe that the best way to learn is by sharing knowledge and collaborating with others. That's why we welcome contributions to Kaiwalya's Learning Journey from everyone who is interested in sharing their insights, expertise, and resources.
 
@@ -54,23 +40,23 @@ We also welcome feedback, suggestions, and ideas for improving the repository. I
 
 Our goal is to create a space where everyone can learn and grow together, regardless of their background or level of experience. So let's collaborate and build a community of learners who support and inspire one another!
 
-### Creating A Pull Request
+#### Creating A Pull Request
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingNotes`)
 3. Commit your Changes (`git commit -m 'Add some AmazingNotes'`)
-4. Push to the Branch (`git push origin feature/AmazingNotes `)
+4. Push to the Branch (`git push origin feature/AmazingNotes` )
 5. Open a Pull Request
 
-## License
+### License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/kaiwalyakoparkar/notes/blob/main/LICENSE.md) for more information.
+Distributed under the MIT License. See [LICENSE](LICENSE.md) for more information.
 
-## Authors
+### Authors
 
-* **Kaiwalya Koparkar** - *Software Engineer/ DevRel/ Open Source Advocate* - [Kaiwalya Koparkar](https://github.com/kaiwalyakoparkar/) - *Notes*
+* **Kaiwalya Koparkar** - _Software Engineer/ DevRel/ Open Source Advocate_ - [Kaiwalya Koparkar](https://github.com/kaiwalyakoparkar/) - _Notes_
 
-## Acknowledgements
+### Acknowledgements
 
 * [ImgShields](https://shields.io/)
 * [ReadME-Generator](https://github.com/ShaanCoding/ReadME-Generator)
