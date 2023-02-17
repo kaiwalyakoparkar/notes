@@ -2,7 +2,7 @@
 
 All the notes during my learning journey 🛣️\
 \
-[View Demo](https://notes.kaiwalyakoparkar.com/) . [Report Bug](https://github.com/kaiwalyakoparkar/notes/issues) . [Request Feature](https://github.com/kaiwalyakoparkar/notes/issues)
+[View Demo](https://notes.kaiwalyakoparkar.com/) . [Report Bug](https://github.com/kaiwalyakoparkar/notes/issues) . [Request Notes](https://github.com/kaiwalyakoparkar/notes/issues)
 
 [![Discord](https://img.shields.io/discord/907150172725862420)](https://community.kaiwalyakoparkar.com) [![Sponsor](https://img.shields.io/github/sponsors/kaiwalyakoparkar?color=light%20green)](https://github.com/sponsors/kaiwalyakoparkar) ![Contributors](https://img.shields.io/github/contributors/kaiwalyakoparkar/notes?color=dark-green) ![Forks](https://img.shields.io/github/forks/kaiwalyakoparkar/notes?style=social) ![Stargazers](https://img.shields.io/github/stars/kaiwalyakoparkar/notes?style=social) ![Issues](https://img.shields.io/github/issues/kaiwalyakoparkar/notes) ![License](https://img.shields.io/github/license/kaiwalyakoparkar/notes)
 
