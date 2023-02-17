@@ -9,7 +9,7 @@ All the notes during my learning journey 🛣️
 
 ## Free to Access 💸
 
-This repo is maitained and hosted on **`https://notes.kaiwalyakoparkar.com/`** with help of GitBook
+This repo is maitained and hosted on **`https://notes.kaiwalyakoparkar.com/open-source`** with help of GitBook
 
 ## Open Source
 This section will contain notes related to Open Source and GitHub

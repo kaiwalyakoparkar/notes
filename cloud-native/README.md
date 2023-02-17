@@ -9,7 +9,7 @@ All the notes during my learning journey 🛣️
 
 ## Free to Access 💸
 
-This repo is maitained and hosted on **`https://notes.kaiwalyakoparkar.com/`** with help of GitBook
+This repo is maitained and hosted on **`https://notes.kaiwalyakoparkar.com/cloud-native`** with help of GitBook
 
 ## Cloud Native 
 This section will contain notes related to cloud native
