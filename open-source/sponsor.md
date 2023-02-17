@@ -1,5 +1,6 @@
 # Sponsor Template
 
+## FUNDING.yml
 ```yml
 patreon: kaiwalya
 ko_fi: kaiwalya
