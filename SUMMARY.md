@@ -10,5 +10,3 @@
   * [Kyverno](cloud-native/kyverno.md)
   * [Prometheus](cloud-native/prometheus.md)
   * [ArgoCD](cloud-native/argo.md)
-  * [Microservices](cloud-native/microservices/README.md)
-    * [Page 1](microservices/page-1)
