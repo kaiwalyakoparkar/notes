@@ -14,13 +14,13 @@ but what are all these "policies" we are talking about? To simplify let's take a
 
 We all have been to schools/ colleges/ universities at some point in our life, some might be pursuing it right now (like me :D) and we have various rules we need to keep in mind while attending the school & colleges. These rules can be seen as policies in the "Kubernetes" school or college. So if you want to restrict/ validate/ mandate some properties, or features your deployment should have or shouldn't have you can mention that using Policies and Kyverno helps us in the creation of the policies which validate your deployment and send errors if the requirement is not matched. So as you might have guessed, this helps you get total control over what goes into your deployment and whether it is up to the guidelines you have created.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671523179320/DWmCM2q5T.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671523179320/DWmCM2q5T.png)
 
 ## ➡️ Architecture of Kyverno ⚙️
 
 Let's look into the architecture. Though understanding every part of architecture is not at all essential at this point but knowing where everything goes and how the workflow goes can help you better visualize and implement. Let's take a look at the images below
 
-![Kubernetes policy management: III - Kyverno - DEV Community 👩‍💻👨‍💻](https://res.cloudinary.com/practicaldev/image/fetch/s--GP4ttue4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7w0kz4zb9e1bkdtsf44h.png align="left")
+![Kubernetes policy management: III - Kyverno - DEV Community 👩‍💻👨‍💻](https://res.cloudinary.com/practicaldev/image/fetch/s--GP4ttue4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7w0kz4zb9e1bkdtsf44h.png)
 
 As seen that Kyverno acts as a middleman when you are trying to apply the manifest files to your clusters. It verifies it and upon passing applies it to the requested section in the deployment. Enough theory let's try it out
 

@@ -12,7 +12,7 @@ Helm is used to package yaml files. These yaml files are deployment and config f
 
 For example, if you want to use Elastic Stack. For including it in your cluster you will have to write the `deployment` yaml files, create `secrets`, `configmaps`, `Kubernetes user with Permissions`, and multiple `Services`. And anyone who wants to use the Elastic stack will have to repeat this process again. What if someone packaged everything ready into a template format so that it becomes more manageable for everyone? That is indeed done. These packages and called Helm Charts. These charts can be shared via repositories.
 
-![](https://i.imgur.com/FX4WBz8.png align="center")
+![](https://i.imgur.com/FX4WBz8.png)
 
 ### 2\. Templating Engine
 
@@ -42,7 +42,7 @@ container:
 
 Following is the logical diagram for the working of template and config files
 
-![Argo CD Working With Helm | Kube by Example](https://raw.githubusercontent.com/christianh814/kbe-guide/main/04-argocd-working-with-helm/img/helm.jpg align="center")
+![Argo CD Working With Helm | Kube by Example](https://raw.githubusercontent.com/christianh814/kbe-guide/main/04-argocd-working-with-helm/img/helm.jpg)
 
 ### 3\. Release Management
 
@@ -50,7 +50,7 @@ One of the other prominent feature of helm is release management. Helm version c
 
 When you create a deployment `Tiller` keeps a copy with itself for future references creating a release history and when you run something like `help upgrade <chartname>` for upgrading version for example`version: 1.14.2` then the current deployments are updated instead of removing the deployments and starting new once. This helps in seamless roll-in and roll-out feature
 
-![Simplifying App Deployment in Kubernetes with Helm Charts | by Kirill  Goltsman | Supergiant.io | Medium](https://miro.medium.com/max/646/1*1lHh6xk05cs9AO3w-vh7iA.jpeg align="center")
+![Simplifying App Deployment in Kubernetes with Helm Charts | by Kirill  Goltsman | Supergiant.io | Medium](https://miro.medium.com/max/646/1*1lHh6xk05cs9AO3w-vh7iA.jpeg)
 
 ## Downside of Helm:
 

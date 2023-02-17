@@ -4,13 +4,13 @@
 
 Docker is a tool which helps you run you application in isolated environment. Docker creates a isolated environment often called "container" where you run your application without getting affected by external factors. This helps in solving the major problem and often a joke "But this works on my computer". You can easily share images to spin up containers and it would work exactly the same as it would run on the machine it was built on. This is very effective tool while deploying your application to production
 
-![What is docker](https://i.imgur.com/yIvuoYU.png align="left")
+![What is docker](https://i.imgur.com/yIvuoYU.png)
 
 ## Steps to Containerize your application
 
 In this section we will see 3 essential steps you need to follow in order to containerize your application
 
-![steps of cont](https://i.imgur.com/nXkKoQ7.png align="left")
+![steps of cont](https://i.imgur.com/nXkKoQ7.png)
 
 ### Dockerfile
 
@@ -24,7 +24,7 @@ Image is what you build out of your dockerfile. Image is easily sharable and sto
 
 Container is the running instance of an application. Containers are the built and setup using docker images. So whenever you get an image and you run it then a 'container' is created with all the information and this is the step where your application is actually running. You can create multiple containers from single image. You can think this as "object" from the "object oriented programming" reference.
 
-![Run multiple containers](https://i.imgur.com/Ro2YJ44.png align="left")
+![Run multiple containers](https://i.imgur.com/Ro2YJ44.png)
 
 ## Build your first Dockerfile
 
@@ -169,7 +169,7 @@ When you install docker it create 3 networks automatically
 $ docker run <image-name> --network=none
 ```
 
-![None network](https://i.imgur.com/0qMamCQ.png align="left")
+![None network](https://i.imgur.com/0qMamCQ.png)
 
 ### Host:
 
@@ -196,7 +196,7 @@ $ docker run -d -p 80:80 nginx
 $ docker run -d nginx --network=host
 ```
 
-![Host Network](https://i.imgur.com/008w9jq.png align="left")
+![Host Network](https://i.imgur.com/008w9jq.png)
 
 ### User-define networks
 
@@ -209,7 +209,7 @@ $ docker network create \
     custom-isolate-network
 ```
 
-![User Defined Network](https://i.imgur.com/yPy1BFx.png align="left")
+![User Defined Network](https://i.imgur.com/yPy1BFx.png)
 
 ## Docker Compose
 
@@ -241,7 +241,7 @@ networks:
 
 Let's see the docker architecture and how it runs applications in containers under the hood. When you install docker on your computer you essentially downloading 3 different components
 
-![Architecture](https://i.imgur.com/xOSb5JO.png align="left")
+![Architecture](https://i.imgur.com/xOSb5JO.png)
 
 ### Docker Deamon
 
@@ -270,7 +270,7 @@ With simple `docker run` command you create instance of your application but tha
 $ docker service create --replicas=100 nodejs
 ```
 
-![Container Orchestration](https://i.imgur.com/T6yy5f6.png align="left")
+![Container Orchestration](https://i.imgur.com/T6yy5f6.png)
 
 There are multiple orchestrations solutions available now a days
 
