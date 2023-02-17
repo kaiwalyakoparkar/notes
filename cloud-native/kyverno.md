@@ -2,7 +2,7 @@
 
 ## ➡️ What is Kyverno 🤔 ?
 
-![Kyverno - Kubernetes Native Policy Management (@kyverno) / Twitter](https://pbs.twimg.com/media/FjT1EhzWYAEidmw?format=png&name=4096x4096 align="left")
+![Kyverno - Kubernetes Native Policy Management](https://pbs.twimg.com/media/FjT1EhzWYAEidmw?format=png&name=4096x4096 align="left")
 
 According to the Kyverno official documentation, it is described as follows
 
