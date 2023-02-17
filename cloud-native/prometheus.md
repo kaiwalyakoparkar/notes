@@ -6,7 +6,7 @@ Prometheus is used as a monitoring tool for highly dynamic container environment
 
 In a regular scenario, it won't be easy as you will have to trace a long way back to find out the service at the root which is causing trouble and fix it. So Prometheus constantly monitors all the services, and alerts the admins or individual users when crash. Prometheus also helps you to detect these problems beforehand (eg: resource depletion, memory shortage, ram/ memory usage)
 
-![](https://media-cdn.squaredup.com/wp-content/uploads/2021/07/22131456/cluster-metrics.png align="center")
+![](https://media-cdn.squaredup.com/wp-content/uploads/2021/07/22131456/cluster-metrics.png)
 
 ## Prometheus Architecture ✨
 
@@ -23,7 +23,7 @@ This is actually responsible for monitoring work. Prometheus server is comprised
 
 *(You can see how these components are put in architecture from the image below)*
 
-![](https://www.redhat.com/sysadmin/sites/default/files/styles/embed_large/public/2020-07/Picture1Arch.png?itok=TJGEDX3p align="center")
+![](https://www.redhat.com/sysadmin/sites/default/files/styles/embed_large/public/2020-07/Picture1Arch.png?itok=TJGEDX3p)
 
 ### What are Targets 🎯:
 
@@ -48,7 +48,7 @@ Some services have a default endpoint exposing data to prometheus but many servi
 
 An alert manager is used to check the rules set by the admin or the user and triggers when any of the given rules is reached. The alert manager then sends the alerts and signals on the provided channels like email, slack, discord, etc.
 
-![](https://miro.medium.com/max/646/0*zShJJwUBC0ecPRkL align="center")
+![](https://miro.medium.com/max/646/0*zShJJwUBC0ecPRkL)
 
 ### Common characteristics of Prometheus 📝:
 
