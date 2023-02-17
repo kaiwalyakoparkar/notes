@@ -18,3 +18,6 @@
   * [Release Action](open-source/release-action.md)
   * [Stale Action](open-source/stale-action.md)
   * [Docker Action](open-source/docker-action.md)
+  * [Code of Conduct](open-source/coc.md)
+  * [Contributing Guide](open-source/contributing.md)
+  * [Security](open-source/security.md)
