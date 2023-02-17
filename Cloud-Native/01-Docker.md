@@ -288,10 +288,3 @@ Well we deep dived quite a bit into the details of docker from simple commands t
 * [Docker Tutorial for Beginners - What is Docker? Introduction to Containers](https://youtu.be/17Bl31rlnRM)
     
 * [Docker Tutorial for Beginners - A Full DevOps Course on How to Run Applications in Containers](https://youtu.be/fqMOX6JJhGo)
-    
-
-### Thank you so much for reading 💖
-
-Like | Follow | Subscribe to the newsletter.
-
-Catch me on my socials here: https://bio.link/kaiwalya
