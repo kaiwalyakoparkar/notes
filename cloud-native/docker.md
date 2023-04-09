@@ -152,7 +152,7 @@ When you install docker it create 3 networks automatically
 * You can run multiple web containers on same docker host and on the same port
     
 
-![Default Docker Network](https://i.imgur.com/FRd7AuM.png align="left")
+![Default Docker Network](https://i.imgur.com/FRd7AuM.png)
 
 ### None:
 
@@ -215,7 +215,7 @@ $ docker network create \
 
 Docker compose is a feature provide by docker host to connect and spin up multiple containers with mostly different images but the application is dependent on both the images quickly.
 
-![](https://i.imgur.com/P1LSF4m.png align="left")
+![](https://i.imgur.com/P1LSF4m.png)
 
 For example frontend image eg: `voting` and backend database in `mongodb` so let's try creating a docker compose file for it
 
