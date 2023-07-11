@@ -10,6 +10,8 @@
   * [Kyverno](cloud-native/kyverno.md)
   * [Prometheus](cloud-native/prometheus.md)
   * [ArgoCD](cloud-native/argo.md)
+* [KCNA Notes](kcna/README.md)
+  * [Kubernetes Fundamentals](kcna/kubernetes-fundamentals/Notes.md)
 * [Open Source](open-source/README.md)
   * [Issue Template](open-source/issue.md)
   * [Pull Request Template](open-source/pr.md)
