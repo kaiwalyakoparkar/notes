@@ -13,7 +13,6 @@
 * [KCNA Notes](kcna/README.md)
   * [Kubernetes Fundamentals](kcna/kubernetes-fundamentals/README.md)
   * [Container Orchastration](kcna/container-orchastration/README.md)
-    * [Notes](kcna/container-orchastration/Notes2.md)
 * [Open Source](open-source/README.md)
   * [Issue Template](open-source/issue.md)
   * [Pull Request Template](open-source/pr.md)
