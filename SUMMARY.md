@@ -14,6 +14,7 @@
   * [Kubernetes Fundamentals](kcna/kubernetes-fundamentals/README.md)
     * [CNCF Essential](kcna/kubernetes-fundamentals/cncf-essential.md)
     * [Basics](kcna/kubernetes-fundamentals/basics.md)
+    * [Kubernetes Overview](kcna/kubernetes-fundamentals/kubernetes-overview.md)
   * [Container Orchastration](kcna/container-orchastration/README.md)
   * [Cloud Native Architecture](kcna/cloud-native-architecture/README.md)
   * [Cloud Native Observability](kcna/cloud-native-observability/README.md)
