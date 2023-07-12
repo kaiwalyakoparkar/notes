@@ -16,6 +16,7 @@
     * [Basics](kcna/kubernetes-fundamentals/basics.md)
     * [Kubernetes Overview](kcna/kubernetes-fundamentals/kubernetes-overview.md)
     * [Detailed Concepts](kcna/kubernetes-fundamentals/kubernetes-detailed.md)
+    * [Minikube/Kind/K3s](kcna/kubernetes-fundamentals/implementation-and-providers.md)
   * [Container Orchastration](kcna/container-orchastration/README.md)
   * [Cloud Native Architecture](kcna/cloud-native-architecture/README.md)
   * [Cloud Native Observability](kcna/cloud-native-observability/README.md)
