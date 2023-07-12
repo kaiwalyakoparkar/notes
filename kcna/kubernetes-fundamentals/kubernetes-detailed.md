@@ -9,7 +9,7 @@ kubectl get endpoint
 ```
 
 ## Endpoint slices:
-This breaks up end points into smaller manageble segments. Each slice has <u>limit of 100 pods</u>. Essential while <u>solving scaling problems</u>
+This breaks up end points into smaller manageble segments. Each slice has limit of 100 pods. Essential while solving scaling problems
 
 ## Jobs:
 A job creates one or more pods and will continue to retry execution of the pods until a specified number of them successfully terminate.
@@ -18,7 +18,7 @@ kubectl create job hello --image=busybox -- echo "Hello World"
 ```
 
 # Cron Jobs:
-It is a job that executes <u>based on repeating schedule.</u>
+It is a job that executes based on repeating schedule.
 
 ```bash
 kubectl create job hello --schedule="*\1 * * * *" --image=busybox -- echo "Hello World"
@@ -37,7 +37,7 @@ kubectl get pods --show-labels
 ```
 
 ## Annotations:
-Kubernetes annotations allow you to watch arbitory non-identifying metadata to objects. <u>Often used by **Ingress**</u>
+Kubernetes annotations allow you to watch arbitory non-identifying metadata to objects. Often used by **Ingress**
 
 ## RPC (Remote procedure call):
 - It enables preogram to communicate with another program on a remote machine without knowing its remote.
@@ -47,7 +47,7 @@ Kubernetes annotations allow you to watch arbitory non-identifying metadata to o
 ```💡 Think of this as method instead of REST or GraphQL```
 
 - gRPC is a modern open source high performance RPC. 
-- Kuberenetes uses gRPC for <u>Pod communication</u>
+- Kuberenetes uses gRPC for Pod communication
 
 ## Kubelet:
 - It is responsible for pod internal API communication via the API server.
@@ -80,7 +80,7 @@ Kubernetes annotations allow you to watch arbitory non-identifying metadata to o
     - starts with `--`
 
 ## Services:
-Ip adresses of pods are <u>ephemeral (temporary)</u> hence we need services.
+Ip adresses of pods are ephemeral (temporary) hence we need services.
 
 ## API Server:
 - Exposes an HTTP API that lets end users, access different parts of your cluster and external components with one another.
