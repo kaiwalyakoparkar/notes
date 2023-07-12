@@ -22,6 +22,7 @@
     * [Container Runtime](kcna/container-orchastration/container-runtime.md)
     * [Container Storage](kcna/container-orchastration/container-storage.md)
     * [Volumes](kcna/container-orchastration/volumes.md)
+    * [Services](kcna/container-orchastration/services.md)
   * [Cloud Native Architecture](kcna/cloud-native-architecture/README.md)
   * [Cloud Native Observability](kcna/cloud-native-observability/README.md)
   * [Cloud Native Application Delivery](kcna/cloud-native-application-delivery/README.md)
