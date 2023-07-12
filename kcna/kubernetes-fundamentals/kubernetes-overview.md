@@ -5,6 +5,7 @@ Kubenerets is an open source container orchestration system for deployment scali
 This page contains one line overview of concepts to quick recap kubernetes :)
 
 ![Phoenixnap image](https://phoenixnap.com/kb/wp-content/uploads/2021/04/full-kubernetes-model-architecture.png)
+
 (Image by: pheonixnap.com)
 
 ## Cluster
