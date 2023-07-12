@@ -11,3 +11,4 @@ The KCNA certification is a pre-professional certification that aims to assess c
 The KCNA certification validates a candidate's fundamental understanding of Kubernetes and cloud-native technologies. It encompasses various areas such as deploying applications using essential kubectl commands, comprehending the architecture of Kubernetes (including containers, pods, nodes, and clusters), grasping the cloud-native landscape and associated projects (such as storage, networking, GitOps, and service mesh), as well as understanding the principles of cloud-native security. Successfully completing the KCNA exam demonstrates a candidate's proficiency in these key areas.
 
 ### [💡 Information source: Linux foundation Training Website](https://training.linuxfoundation.org/certification/kubernetes-cloud-native-associate/)
+

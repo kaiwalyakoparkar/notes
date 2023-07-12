@@ -1,1 +1,1 @@
-# Kubernetes Fundamental (Waitage - 48%)
+# Kubernetes Fundamental (Importance - 48%)
