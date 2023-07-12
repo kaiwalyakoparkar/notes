@@ -1,4 +1,4 @@
-# CNCF Overview
+# CNCF Essentials
 
 It is crucial to understand and know about CNCF, a brief deepdive will be available in the last segment of the notes but let's get started with the essential things to know
 
