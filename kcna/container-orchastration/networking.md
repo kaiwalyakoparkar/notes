@@ -90,3 +90,28 @@ Ingress traffic trying to reach a collection of servers
     - Userspace (Legacy)
 
 ![Kube-proxy](../../assets/boards/kubeproxy.png)
+
+## Container Networking Interface (CNI):
+It is specification for writing plugins to configure networking interface for linux containers.
+
+![Cloud Networking Interface](../../assets/boards/cni.png)
+
+## Service Mesh
+- A service mesh manages service-to-service communication of microservice architecture.
+- Service mes provides:
+    - Reliability
+    - Observability
+    - Security
+- Service mesh uses ***side car pattern***
+- A proxy container is installed in each pod.
+- Application container must pass through the proxies
+- Istio, Kuma, Linkerd
+
+![Service mesh](../../assets/boards/servicemesh.png)
+
+## Envoy
+- Envoy is self contained process that is designed to run alongside every application server
+- Can be installed as VM or as a container
+- In practice use don't manually configure Envoy
+- You would allow service mesh control plane to install it into pods
+- Service mesh may come up with UI for envoy configuration
