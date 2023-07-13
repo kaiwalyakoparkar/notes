@@ -46,3 +46,25 @@ A history of requests that it travels through multiple apps/services so we get p
 ![Trace tree](../../assets/boards/trace-tree.png)
 
 ![Trace and Spans](../../assets/boards/traces-and-spans.png)
+
+## Kubernetes System logs & Klogs:
+### System Logs:
+- HTTP access logs, pod state changes, controller action, or scheduler decision
+- In `kubectl`` you can view logs with `logs` command
+
+```bash
+kubectl logs nginx --all-containers=true
+```
+
+### Klogs:
+- Klogs is the Kubernetes logging library
+- Klogs generates log messages for kubernetes system components
+
+## Testing:
+Asserting the expectations of the input and output of the function
+
+## What is Chaos Testing?
+Building system to withstand and tolerate any kind of failure by purposly introducing random failures in production systems
+- ChaosKube
+- TestKube
+- ChaosMonkey
