@@ -22,6 +22,7 @@ In this method we increase or decrease the capacity/size of resources like CPU, 
 ## Node Based Autoscaling:
 - Known as ClusterAutoscalar or Karpenter
 - We increase or decrease the number of nodes based on demand
+
 ![Node Based AutoScaling](../../assets/boards/nbs.png)
 
 ## Scale V/S AutoScale
