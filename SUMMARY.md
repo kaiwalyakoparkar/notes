@@ -37,6 +37,7 @@
   * [Cloud Native Application Delivery](kcna/cloud-native-application-delivery/README.md)
     * [Helm and IaaC](kcna/cloud-native-application-delivery/packaging.md)
     * [GitOps and CI/CD](kcna/cloud-native-application-delivery/gitops-cicd.md)
+    * [Deployment Strategies](kcna/cloud-native-application-delivery/deployment-strategies.md)
 * [Open Source](open-source/README.md)
   * [Issue Template](open-source/issue.md)
   * [Pull Request Template](open-source/pr.md)
