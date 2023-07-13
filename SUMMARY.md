@@ -30,6 +30,7 @@
     * [Autoscaling](kcna/cloud-native-architecture/autoscaling.md)
     * [Open Standards](kcna/cloud-native-architecture/open-standards.md)
     * [Community and Governance](kcna/cloud-native-architecture/governance.md)
+    * [Serverless](kcna/cloud-native-architecture/serverless.md)
   * [Cloud Native Observability](kcna/cloud-native-observability/README.md)
   * [Cloud Native Application Delivery](kcna/cloud-native-application-delivery/README.md)
 * [Open Source](open-source/README.md)
