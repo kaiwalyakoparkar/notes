@@ -36,6 +36,7 @@
     * [Cost Management](kcna/cloud-native-observability/cost-management.md)
   * [Cloud Native Application Delivery](kcna/cloud-native-application-delivery/README.md)
     * [Helm and IaaC](kcna/cloud-native-application-delivery/packaging.md)
+    * [GitOps and CI/CD](kcna/cloud-native-application-delivery/gitops-cicd.md)
 * [Open Source](open-source/README.md)
   * [Issue Template](open-source/issue.md)
   * [Pull Request Template](open-source/pr.md)
