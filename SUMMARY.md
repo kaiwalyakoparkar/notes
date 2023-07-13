@@ -33,6 +33,7 @@
     * [Serverless](kcna/cloud-native-architecture/serverless.md)
   * [Cloud Native Observability](kcna/cloud-native-observability/README.md)
     * [Oberservability](kcna/cloud-native-observability/observability.md)
+    * [Cost Management](kcna/cloud-native-observability/cost-management.md)
   * [Cloud Native Application Delivery](kcna/cloud-native-application-delivery/README.md)
 * [Open Source](open-source/README.md)
   * [Issue Template](open-source/issue.md)
