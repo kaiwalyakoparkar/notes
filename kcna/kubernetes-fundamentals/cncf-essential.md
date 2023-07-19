@@ -7,7 +7,7 @@ Describes as an architectureal approach that empasize application workloads that
 
 **Some descrbe cloud native being 4-key principles:**
 1. Microservices
-2. Containerication
+2. Containerization
 3. Continuous Delivery
 4. DevOps
 
@@ -36,7 +36,7 @@ Checkout: [https://landscape.cncf.io](https://landscape.cncf.io)
 
 ## Cloud Native Trail map:
 It is a recommended path to adopting cloud-native architecture
-1. Containeraization
+1. Containerization
 2. CI/CD
 3. Orchastration & App Definition
 4. Obserbility & Analysis
