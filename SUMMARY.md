@@ -5,6 +5,7 @@
   * [Community Building](./devrel/introduction/README.md)
   * [Inclusive Community](./devrel/inclusion/README.md)
   * [Information Design](./devrel/information-design/README.md)
+  * [Public Speaking](./devrel/public-speaking/README.md)
 * [Cloud Native](cloud-native/README.md)
   * [Docker](cloud-native/docker.md)
   * [Kubernetes](cloud-native/kubernetes.md)
