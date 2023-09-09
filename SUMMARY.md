@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Home](README.md)
-* [DevRel](README.md)
+* [DevRel](./devrel/README.md)
   * [Community Building](./devrel/introduction/README.md)
   * [Inclusive Community](./devrel/inclusion/README.md)
   * [Information Design](./devrel/information-design/README.md)
