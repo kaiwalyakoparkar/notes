@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Home](README.md)
+* [DevRel](README.md)
+  * [Introduction](./devrel/introduction/README.md)
 * [Cloud Native](cloud-native/README.md)
   * [Docker](cloud-native/docker.md)
   * [Kubernetes](cloud-native/kubernetes.md)
@@ -10,6 +12,7 @@
   * [Kyverno](cloud-native/kyverno.md)
   * [Prometheus](cloud-native/prometheus.md)
   * [ArgoCD](cloud-native/argo.md)
+* [CKA Notes](cka/README.md)
 * [KCNA Notes](kcna/README.md)
   * [Kubernetes Fundamentals](kcna/kubernetes-fundamentals/README.md)
     * [CNCF Essential](kcna/kubernetes-fundamentals/cncf-essential.md)
