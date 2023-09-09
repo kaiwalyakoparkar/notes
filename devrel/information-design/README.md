@@ -25,3 +25,23 @@
 - Create a scafe space
 - Never call participants in gender non-inclusinve terms
 - Be humbel: It's not about you
+- Take breaks
+- Ask about previous experiences
+- Keep it as simple as possible
+- Break things down
+- Repeat yourself
+- User metaphors
+- Observe and listen, be flexible
+- Be patient
+- Make zero assumptions
+- Summerize, give a bigger picture
+- Be positive, praise progress
+- Have weak opinions
+- Never cancel a group meeting
+- Build an identity
+- Give long term perspectives
+- Come up with curriculum
+- Focus on your goal
+- Encourage them to join other events
+- Invite guests stars and experts
+- Educate yourself
