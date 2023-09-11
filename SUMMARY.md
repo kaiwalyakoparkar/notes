@@ -18,6 +18,7 @@
 * [CKA Notes](cka/README.md)
   * [Core Concepts](cka/core-concepts/README.md)
     * [Basics](cka/core-concepts/Basics.md)
+    * [ETCD](cka/core-concepts/etcd.md)
 * [KCNA Notes](kcna/README.md)
   * [Kubernetes Fundamentals](kcna/kubernetes-fundamentals/README.md)
     * [CNCF Essential](kcna/kubernetes-fundamentals/cncf-essential.md)
