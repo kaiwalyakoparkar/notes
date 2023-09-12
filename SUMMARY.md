@@ -20,6 +20,7 @@
     * [Basics](cka/core-concepts/basics.md)
     * [ETCD](cka/core-concepts/etcd.md)
     * [K8s Components](cka/core-concepts/component.md)
+    * [K8s Objects](cka/core-concepts/pod-rs-deploy.md)
 * [KCNA Notes](kcna/README.md)
   * [Kubernetes Fundamentals](kcna/kubernetes-fundamentals/README.md)
     * [CNCF Essential](kcna/kubernetes-fundamentals/cncf-essential.md)
