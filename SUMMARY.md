@@ -29,6 +29,8 @@
     * [Labels and Selectors](cka/scheduling/labels-and-selectors.md)
     * [Taints and Tolerations](cka/scheduling/taints-and-tolerations.md)
     * [Resource Requirements & Limits](cka/scheduling/resource-requirement-and-limits.md)
+  * [Logging and Monitoring](cka/logging-and-monitoring/README.md)
+    * [Logging and Monitoring](cka/logging-and-monitoring/logging-and-monitoring.md)
 * [KCNA Notes](kcna/README.md)
   * [Kubernetes Fundamentals](kcna/kubernetes-fundamentals/README.md)
     * [CNCF Essential](kcna/kubernetes-fundamentals/cncf-essential.md)
