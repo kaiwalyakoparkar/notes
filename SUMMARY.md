@@ -46,7 +46,8 @@
     * [Backup and Restore](cka/cluster-maintenance/backup-and-restore.md)
     * [ETCD Backup](cka/cluster-maintenance/etcd-backup.md)
   * [Security](cka/security/README.md)
-    * []
+    * [Kubernetes Security Primitive](cka/security/kubernetes-security-primitive.md)
+    * [Authentication](cka/security/authentication.md)
 * [KCNA Notes](kcna/README.md)
   * [Kubernetes Fundamentals](kcna/kubernetes-fundamentals/README.md)
     * [CNCF Essential](kcna/kubernetes-fundamentals/cncf-essential.md)
