@@ -49,6 +49,8 @@
     * [Kubernetes Security Primitive](cka/security/kubernetes-security-primitive.md)
     * [Authentication](cka/security/authentication.md)
     * [TLS](cka/security/tls.md)
+    * [RBAC](cka/security/rbac.md)
+    * [Security Context](cka/security/security-context.md)
 * [KCNA Notes](kcna/README.md)
   * [Kubernetes Fundamentals](kcna/kubernetes-fundamentals/README.md)
     * [CNCF Essential](kcna/kubernetes-fundamentals/cncf-essential.md)
