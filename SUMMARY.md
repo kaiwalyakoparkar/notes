@@ -54,6 +54,8 @@
     * [Network Security](cka/security/network-security.md)
   * [Storage](cka/storage/README.md)
     * [Docker Storage](cka/storage/docker-storage.md)
+  * [Networking](cka/networking/README.md)
+    * [Switching & Routing](cka/networking/switching-routing.md)
 * [KCNA Notes](kcna/README.md)
   * [Kubernetes Fundamentals](kcna/kubernetes-fundamentals/README.md)
     * [CNCF Essential](kcna/kubernetes-fundamentals/cncf-essential.md)
