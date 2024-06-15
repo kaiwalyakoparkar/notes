@@ -53,6 +53,7 @@
     * [Security Context](cka/security/security-context.md)
     * [Network Security](cka/security/network-security.md)
   * [Storage](cka/storage/README.md)
+    * [Docker Storage](cka/storage/docker-storage.md)
 * [KCNA Notes](kcna/README.md)
   * [Kubernetes Fundamentals](kcna/kubernetes-fundamentals/README.md)
     * [CNCF Essential](kcna/kubernetes-fundamentals/cncf-essential.md)
