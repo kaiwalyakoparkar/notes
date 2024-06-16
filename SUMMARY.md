@@ -58,6 +58,8 @@
     * [Switching & Routing](cka/networking/switching-routing.md)
     * [DNS](cka/networking/dns.md)
     * [Docker & Cluster Networking](cka/networking/docker-and-cluster-networking.md)
+    * [CNI](cka/networking/cni.md)
+    * [CoreDNS](cka/networking/coredns.md)
 * [KCNA Notes](kcna/README.md)
   * [Kubernetes Fundamentals](kcna/kubernetes-fundamentals/README.md)
     * [CNCF Essential](kcna/kubernetes-fundamentals/cncf-essential.md)
