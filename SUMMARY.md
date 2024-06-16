@@ -65,6 +65,7 @@
   * [Troubleshooting](cka/troubleshooting/README.md)
     * [Application Failure](cka/troubleshooting/application-failure.md)
     * [Control Plane Failure](cka/troubleshooting/control-plane-failure.md)
+    * [Worker Node Failure](cka/troubleshooting/worker-node-failure.md)
 * [KCNA Notes](kcna/README.md)
   * [Kubernetes Fundamentals](kcna/kubernetes-fundamentals/README.md)
     * [CNCF Essential](kcna/kubernetes-fundamentals/cncf-essential.md)
