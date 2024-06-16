@@ -61,6 +61,7 @@
     * [CNI](cka/networking/cni.md)
     * [CoreDNS](cka/networking/coredns.md)
   * [Designing and Installing K8s Cluster](cka/designing-k8s-cluster/README.md)
+    * [Designing](cka/designing-k8s-cluster/designing.md)
 * [KCNA Notes](kcna/README.md)
   * [Kubernetes Fundamentals](kcna/kubernetes-fundamentals/README.md)
     * [CNCF Essential](kcna/kubernetes-fundamentals/cncf-essential.md)
