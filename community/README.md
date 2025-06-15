@@ -1,4 +1,4 @@
-# DevRel Notes 🥑
+# Community & Personal Building Notes 🥑
 
 To be honest these are not notes, these are some learning I have gained from different programs and initiatives.
 

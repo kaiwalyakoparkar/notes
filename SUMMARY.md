@@ -1,11 +1,12 @@
 # Table of contents
 
 * [Home](README.md)
-* [DevRel](./devrel/README.md)
-  * [Community Building](./devrel/introduction/README.md)
-  * [Inclusive Community](./devrel/inclusion/README.md)
-  * [Information Design](./devrel/information-design/README.md)
-  * [Public Speaking](./devrel/public-speaking/README.md)
+* [Community & Personal Building](./community/README.md)
+  * [Community Building](./community/introduction/README.md)
+  * [Inclusive Community](./community/inclusion/README.md)
+  * [Information Design](./community/information-design/README.md)
+  * [Public Speaking](./community/public-speaking/README.md)
+* [Developer Advocacy](./devadv/README.md)
 * [Cloud Native](cloud-native/README.md)
   * [Docker](cloud-native/docker.md)
   * [Kubernetes](cloud-native/kubernetes.md)
