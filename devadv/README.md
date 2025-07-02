@@ -4,6 +4,9 @@ Again, these are not notes, these are some resources (blogs, podcasts, yt videos
 
 I might add more pages to it as I grow in experience and try out different techniques but this is it for now :D
 
+## Presentations:
+- [How to Audit Your Developer Program](https://pitch.com/v/how-to-audit-your-devrel-program-3cmzwg/d8265a15-fb7e-41a5-a211-cea4c7893b53) - [Wesley Faulkner](https://www.linkedin.com/in/wesleyfaulkner/)
+
 ## Blogs:
 
 - [How to Measure the Value of Developer Relations](https://maida.kim/how-to-measure-the-value-of-developer-relations/#ib-toc-anchor-1) - [Kim Maida](https://www.linkedin.com/in/kimmaida/)
