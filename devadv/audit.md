@@ -1,5 +1,3 @@
-# ✅ DevRel Program Audit To-Do List
-
 # 🌐 Web Review
 ## Review: Front Page (No Scrolling, Count Clicks)
 - [ ] What does the company do?
