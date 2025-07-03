@@ -7,6 +7,7 @@
   * [Information Design](./community/information-design/README.md)
   * [Public Speaking](./community/public-speaking/README.md)
 * [Developer Advocacy](./devadv/README.md)
+  * [DevRel Program Audit Checklist](./devadv/audit.md)
 * [Cloud Native](cloud-native/README.md)
   * [Docker](cloud-native/docker.md)
   * [Kubernetes](cloud-native/kubernetes.md)
