@@ -9,6 +9,7 @@ I might add more pages to it as I grow in experience and try out different techn
 
 ## Blogs:
 
+- [Measuring Developer Relations](https://www.swyx.io/measuring-devrel) - [Swyx](https://x.com/swyx)
 - [Visualizing your AAARRP priorities as a way to manage up in your DevRel team
 ](https://lengrand.fr/aaarrp-metrics-as-a-way-to-manage-expectations-up/) - [Julien Lengrand-Lambert](https://www.linkedin.com/in/julienlengrand/)
 - [The AAARRRP Developer Relations Strategy Framework
