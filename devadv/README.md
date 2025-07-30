@@ -25,3 +25,7 @@ I might add more pages to it as I grow in experience and try out different techn
 ](https://kurtiskemple.com/blog/developer-advocates-guide-to-asking-for-things/) - [Kurt Kemple](https://www.linkedin.com/in/kurtiskemple/)
 - [How to Drive Developer Growth and Engagement
 ](https://maida.kim/how-to-drive-developer-growth-and-engagement/) - [Kim Maida](https://www.linkedin.com/in/kimmaida/)
+
+## Templates & Others
+
+- [AAARRRP Google Sheets template](https://docs.google.com/spreadsheets/d/1nUGvs7cmN9shWcA57cIESVqHuXliNa7NywXGviCuwNE/edit#gid=0)
