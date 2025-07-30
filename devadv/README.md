@@ -11,6 +11,8 @@ I might add more pages to it as I grow in experience and try out different techn
 
 - [Visualizing your AAARRP priorities as a way to manage up in your DevRel team
 ](https://lengrand.fr/aaarrp-metrics-as-a-way-to-manage-expectations-up/) - [Julien Lengrand-Lambert](https://www.linkedin.com/in/julienlengrand/)
+- [The AAARRRP Developer Relations Strategy Framework
+](https://www.leggetter.co.uk/aaarrrp/)
 - [How to Measure the Value of Developer Relations](https://maida.kim/how-to-measure-the-value-of-developer-relations/#ib-toc-anchor-1) - [Kim Maida](https://www.linkedin.com/in/kimmaida/)
 - [The Developer Advocate's Guide to Metrics and Reporting
 ](https://kurtiskemple.com/blog/developer-advocates-guide-to-metrics-and-reporting/) - [Kurt Kemple](https://www.linkedin.com/in/kurtiskemple/)
